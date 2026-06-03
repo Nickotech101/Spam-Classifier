@@ -10,3 +10,4 @@ notebook
 joblib
 wordcloud
 sklearn
+plotly
