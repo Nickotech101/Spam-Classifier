@@ -46,3 +46,6 @@ file structure
         ├── README.md
         ├── .gitignore
         └── LICENSE
+
+To start Frontend
+python -m streamlit run app/app.py

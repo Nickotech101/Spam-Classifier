@@ -18,7 +18,7 @@ st.markdown("""
 <style>
 
 header[data-testid="stHeader"]{
-    display:none;
+    background: transparent;
 }
 
 .block-container{
