@@ -9,5 +9,4 @@ jupyter
 notebook
 joblib
 wordcloud
-sklearn
 plotly
