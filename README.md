@@ -49,3 +49,8 @@ file structure
 
 To start Frontend
 python -m streamlit run app/app.py
+
+Contributors 
+@Nikita
+@Ranjit
+@Gaurav
